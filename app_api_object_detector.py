@@ -8,7 +8,7 @@ import urllib.parse
 # -----------------------------
 # 🔧 CONFIGURATION
 # -----------------------------
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "XXXXXXX-XXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXXXX"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 st.set_page_config(page_title="AI Object Detector + Live Resources", layout="centered")
@@ -144,4 +144,5 @@ else:
 # -----------------------------
 st.markdown("---")
 st.caption("Made with ❤️ using Streamlit + OpenRouter GPT-4o-mini")
+
 st.caption("Note: The AI model may not always be accurate. For best results, use clear images of single objects.")
