@@ -53,5 +53,5 @@ It’s designed to help users discover **creative dishes** from the ingredients 
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/<your-username>/smart-object-recipe-recommender.git
-cd smart-object-recipe-recommender
+git clone [https://github.com/<your-username>/smart-object-recipe-recommender.git](https://github.com/umaradnaan123/Smart-Object-Based-Recipe-Recommender.git)
+cd Smart-Object-Based-Recipe-Recommender
